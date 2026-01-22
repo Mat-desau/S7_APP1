@@ -68,6 +68,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAG
 
 [Document2]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CLOCK.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAT
+
+[Document3]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_ALIM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAO
 
-[Document3]
+[Document4]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_ETHERNET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +118,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAQ
 
-[Document4]
+[Document5]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CNA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAR
+
+[Document6]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CAN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAS
+
+[Document7]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,126 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAP
 
-[Document5]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK0.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAN
-
-[Document6]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAH
-
-[Document7]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAI
-
 [Document8]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAJ
-
-[Document9]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAK
-
-[Document10]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAL
-
-[Document11]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-ALIM.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAM
-
-[Document12]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CONNECTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
-[Document13]
+[Document9]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_ASIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +203,126 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAF
 
+[Document10]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK0.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAN
+
+[Document11]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAH
+
+[Document12]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAI
+
+[Document13]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAJ
+
 [Document14]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK4.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAK
+
+[Document15]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK5.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAL
+
+[Document16]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-ALIM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAM
+
+[Document17]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNYTCPOA
 
-[Document15]
+[Document18]
 DocumentPath=s7cas_lib2023.intlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document19]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document20]
 DocumentPath=S7-CAS-PLEIADES-CARTE-MERE_P01.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -349,52 +400,52 @@ Variation1=Designator=R46|UniqueId=\QHBJNSCB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Project_Stencil_Top_Thickness
-Value=
+Name=Project_Date
+Value=13/01/2026
 
 [Parameter2]
-Name=Project_Stencil_Bot_Thickness
-Value=
-
-[Parameter3]
-Name=Project_Revision
-Value=1.00
-
-[Parameter4]
-Name=Project_Name
-Value=S7CAS-PLEIADES-CARTE-MERE
-
-[Parameter5]
-Name=Project_Group
-Value=01
-
-[Parameter6]
-Name=Project_Global
-Value=Pleiades
-
-[Parameter7]
-Name=Project_Designer4
-Value=
-
-[Parameter8]
-Name=Project_Designer3
-Value=Jonathan Bouchard
-
-[Parameter9]
-Name=Project_Designer2
-Value=Mathys Plante (PLAM1001)
-
-[Parameter10]
-Name=Project_Designer1
-Value=Mathieu Desautels (DESM1210)
-
-[Parameter11]
 Name=Project_DateCode
 Value=
 
+[Parameter3]
+Name=Project_Designer1
+Value=Mathieu Desautels (DESM1210)
+
+[Parameter4]
+Name=Project_Designer2
+Value=Mathys Plante (PLAM1001)
+
+[Parameter5]
+Name=Project_Designer3
+Value=Jonathan Bouchard
+
+[Parameter6]
+Name=Project_Designer4
+Value=
+
+[Parameter7]
+Name=Project_Global
+Value=Pleiades
+
+[Parameter8]
+Name=Project_Group
+Value=01
+
+[Parameter9]
+Name=Project_Name
+Value=S7CAS-PLEIADES-CARTE-MERE
+
+[Parameter10]
+Name=Project_Revision
+Value=1.00
+
+[Parameter11]
+Name=Project_Stencil_Bot_Thickness
+Value=
+
 [Parameter12]
-Name=Project_Date
-Value=13/01/2026
+Name=Project_Stencil_Top_Thickness
+Value=
 
 [Configuration1]
 Name=Sources
@@ -827,96 +878,66 @@ Name=Export Outputs
 Description=
 TargetPrinter=Brother MFC-J985DW
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Ansoft Neutral
-OutputName1=Ansoft Neutral (AutoPCB)
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf PCB
-OutputName2=AutoCAD dwg/dxf File PCB
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=AutoCAD dwg/dxf Schematic
-OutputName3=AutoCAD dwg/dxf File Schematic
+OutputType3=ExportIDF
+OutputName3=Export IDF
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=ExportIDF
-OutputName4=Export IDF
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=ExportPARASOLID
-OutputName5=Export PARASOLID
+OutputType5=ExportSTEP
+OutputName5=Export STEP
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ExportSTEP
-OutputName6=Export STEP
+OutputType6=ExportVRML
+OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=ExportVRML
-OutputName7=Export VRML
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
 OutputDocumentPath7=
-OutputVariantName7=[No Variations]
+OutputVariantName7=
 OutputDefault7=0
-OutputType8=HyperLynx
-OutputName8=HyperLynx (AutoPCB)
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=MathWorks
-OutputName9=MathWorks (AutoPCB)
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Orcad v7 Capture Design
-OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=P-CAD ASCII
-OutputName13=P-CAD ASCII (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD V16 Schematic Design
-OutputName14=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Save As/Export PCB
-OutputName15=Save As/Export PCB
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Save As/Export Schematic
-OutputName16=Save As/Export Schematic
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=Specctra Design PCB
-OutputName17=Specctra Design PCB
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=Web ReviewOutputName
-OutputName18=Web Review Data
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
