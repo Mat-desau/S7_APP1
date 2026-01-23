@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAP
 
 [Document8]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CONNECTORS.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_MOTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
