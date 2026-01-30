@@ -1,0 +1,47 @@
+Removed Parameter Access Time:8 ns from Part U4
+Removed Parameter Assembly Note: from Part D1
+Removed Parameter Assembly Note: from Part ISO1
+Removed Parameter Assembly Note: from Part J1
+Removed Parameter Assembly Note: from Part M1
+Removed Parameter Assembly Note: from Part U6
+Removed Parameter Assembly Type:SMD from Part D1
+Removed Parameter Assembly Type:SMD from Part ISO1
+Removed Parameter Assembly Type:SMD from Part J1
+Removed Parameter Assembly Type:SMD from Part M1
+Removed Parameter Assembly Type:SMD from Part U6
+Removed Parameter Clock Frequency Max:54 MHz from Part U4
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U4
+Removed Parameter ComponentLink1URL:http://www.micron.com/ from Part U4
+Removed Parameter ComponentLink2Description:Datasheet from Part U4
+Removed Parameter ComponentLink2URL:http://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/m25p/m25p128.pdf from Part U4
+Removed Parameter Mounting Technology:Surface Mount from Part U4
+Removed Parameter NI: from Part C33
+Removed Parameter NI: from Part C34
+Removed Parameter NI: from Part C35
+Removed Parameter NI: from Part C36
+Removed Parameter NI: from Part C37
+Removed Parameter NI: from Part C47
+Removed Parameter NI: from Part R33
+Removed Parameter NI: from Part R34
+Removed Parameter NI: from Part R35
+Removed Parameter NI: from Part R36
+Removed Parameter NI: from Part R37
+Removed Parameter NI: from Part R38
+Removed Parameter NI: from Part R39
+Removed Parameter NI: from Part R40
+Removed Parameter NI: from Part R41
+Removed Parameter NI: from Part R42
+Removed Parameter NI: from Part R43
+Removed Parameter NI: from Part R44
+Removed Parameter NI: from Part R45
+Removed Parameter NI: from Part R46
+Removed Parameter NI: from Part R58
+Removed Parameter NI: from Part U1
+Removed Parameter NI: from Part U1
+Removed Parameter Note:* from Part D1
+Removed Parameter Note: from Part ISO1
+Removed Parameter Note:* from Part J1
+Removed Parameter Note: from Part U6
+Removed Parameter Note:Prior to reflow, the JTAG-SMT3-NC module must be dried at 125°C for 17 hours from Part M1
+Added Parameter Mfg Part Number=SI8620BB-B-IS to Part U6
+Added Parameter Mfg Part Number=TPD2E001DRLR to Part D1

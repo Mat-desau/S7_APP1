@@ -1,0 +1,83 @@
+Removed Parameter Assembly Note: from Part D7
+Removed Parameter Assembly Note: from Part F1
+Removed Parameter Assembly Note: from Part J8
+Removed Parameter Assembly Note: from Part U14
+Removed Parameter Assembly Note: from Part U15
+Removed Parameter Assembly Note: from Part U16
+Removed Parameter Assembly Note: from Part U17
+Removed Parameter Assembly Note: from Part U19
+Removed Parameter Assembly Note: from Part U20
+Removed Parameter Assembly Note:One reflow only from Part U18
+Removed Parameter Assembly Type:SMD from Part D7
+Removed Parameter Assembly Type:SMD from Part F1
+Removed Parameter Assembly Type:SMD from Part U14
+Removed Parameter Assembly Type:SMD from Part U15
+Removed Parameter Assembly Type:SMD from Part U16
+Removed Parameter Assembly Type:SMD from Part U17
+Removed Parameter Assembly Type:SMD from Part U18
+Removed Parameter Assembly Type:SMD from Part U19
+Removed Parameter Assembly Type:SMD from Part U20
+Removed Parameter Assembly Type:TH from Part J8
+Removed Parameter Code_IPC: from Part U21
+Removed Parameter Code_JEDEC: from Part U21
+Removed Parameter ComponentLink1Description:Datasheet URL from Part U21
+Removed Parameter ComponentLink1URL:http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LMZ23610&fileType=pdf from Part U21
+Removed Parameter CompType:Switcher from Part U21
+Removed Parameter NI: from Part C14
+Removed Parameter NI: from Part C85
+Removed Parameter NI: from Part C86
+Removed Parameter NI: from Part C87
+Removed Parameter NI: from Part C88
+Removed Parameter NI: from Part C89
+Removed Parameter NI: from Part C90
+Removed Parameter NI: from Part C91
+Removed Parameter NI: from Part C92
+Removed Parameter NI: from Part C93
+Removed Parameter NI: from Part C94
+Removed Parameter NI: from Part C95
+Removed Parameter NI: from Part C96
+Removed Parameter NI: from Part C97
+Removed Parameter NI: from Part C98
+Removed Parameter NI: from Part C99
+Removed Parameter NI: from Part C100
+Removed Parameter NI: from Part C101
+Removed Parameter NI: from Part C102
+Removed Parameter NI: from Part C103
+Removed Parameter NI: from Part C104
+Removed Parameter NI: from Part C105
+Removed Parameter NI: from Part C?
+Removed Parameter NI: from Part C?
+Removed Parameter NI: from Part D10
+Removed Parameter NI: from Part R107
+Removed Parameter NI: from Part R113
+Removed Parameter NI: from Part R114
+Removed Parameter NI: from Part R115
+Removed Parameter NI: from Part R116
+Removed Parameter NI: from Part R117
+Removed Parameter NI: from Part R118
+Removed Parameter NI: from Part R119
+Removed Parameter NI: from Part R120
+Removed Parameter NI: from Part R121
+Removed Parameter NI: from Part R122
+Removed Parameter NI: from Part R?
+Removed Parameter NI: from Part R?
+Removed Parameter Note:- from Part U14
+Removed Parameter Note:- from Part U19
+Removed Parameter Note:* from Part D7
+Removed Parameter Note:* from Part F1
+Removed Parameter Note: from Part J8
+Removed Parameter Note:* from Part U15
+Removed Parameter Note:* from Part U16
+Removed Parameter Note:* from Part U17
+Removed Parameter Note:* from Part U18
+Removed Parameter Note: from Part U20
+Added Parameter Mfg Part Number=0154005.DR to Part F1
+Added Parameter Mfg Part Number=0039300060 to Part J8
+Added Parameter Mfg Part Number=LMZ34002RKGR to Part U18
+Added Parameter Mfg Part Number=MBRB4030T4G to Part D7
+Added Parameter Mfg Part Number=NCP59744MN1ADJTBG to Part U14
+Added Parameter Mfg Part Number=NCP59744MN1ADJTBG to Part U19
+Added Parameter Mfg Part Number=PTH04T231WAZ to Part U15
+Added Parameter Mfg Part Number=PTH04T231WAZ to Part U17
+Added Parameter Mfg Part Number=PTH08T241WAZ to Part U16
+Added Parameter Mfg Part Number=TPS7A3301RGWR to Part U20

@@ -43,15 +43,15 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\Job1.PDF
+OutputFilePath2=\\Mac\Home\Documents\GitHub\S7_APP1\APP\01 - SCHEMAS ET PCB\99 - WORKING COPY\Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P01\S7-CAS-PLEIADES-CARTE-MERE.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P01
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=S7-CAS-PLEIADES-CARTE-MERE.PDF
+OutputFileName2=P01_S7PLEIADES-CARTE-MERE_SCH.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -72,6 +72,6 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\Job1.PDF
+RelativeOutputPath2=\\Mac\Home\Documents\GitHub\S7_APP1\APP\01 - SCHEMAS ET PCB\99 - WORKING COPY\Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P01\S7-CAS-PLEIADES-CARTE-MERE.PDF
 OpenOutputs2=1
 
