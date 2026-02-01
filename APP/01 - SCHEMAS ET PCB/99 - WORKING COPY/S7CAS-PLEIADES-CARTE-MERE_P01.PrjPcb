@@ -68,13 +68,13 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAG
 
 [Document2]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CLOCK.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=15
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -82,7 +82,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAT
+DocumentUniqueId=YZWMLBAU
 
 [Document3]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_ALIM.SchDoc
@@ -102,6 +102,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAO
 
 [Document4]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CLOCK.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAT
+
+[Document5]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_ETHERNET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAQ
 
-[Document5]
+[Document6]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CNA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAR
 
-[Document6]
+[Document7]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAS
 
-[Document7]
+[Document8]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAP
 
-[Document8]
+[Document9]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_MOTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
-[Document9]
+[Document10]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAF
 
-[Document10]
+[Document11]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAN
 
-[Document11]
+[Document12]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAH
 
-[Document12]
+[Document13]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAI
 
-[Document13]
+[Document14]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAJ
 
-[Document14]
+[Document15]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAK
 
-[Document15]
+[Document16]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-BANK5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
 
-[Document16]
+[Document17]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01_FPGA-ALIM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAM
 
-[Document17]
+[Document18]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNYTCPOA
 
-[Document18]
+[Document19]
 DocumentPath=s7cas_lib2023.intlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P01.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=S7-CAS-PLEIADES-CARTE-MERE_P01.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
