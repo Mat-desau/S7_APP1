@@ -1,0 +1,34 @@
+##################################
+# Altium Designer - Git Ignore
+##################################
+
+# --- Dossiers générés par Altium ---
+Project Logs/
+History/
+Preview/
+__Previews/
+Outputs/
+Generated/
+Reports/
+
+# --- Fichiers temporaires ---
+*.tmp
+*.bak
+*.log
+*.lck
+*.drc
+*.erc
+*.err
+
+# --- Fichiers de preview Altium ---
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+
+# --- Fichiers système ---
+Thumbs.db
+.DS_Store
+
+# --- Autosave / recovery ---
+*.asv
+*.sv$
