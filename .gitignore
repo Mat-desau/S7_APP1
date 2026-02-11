@@ -3,10 +3,9 @@
 ##################################
 
 # --- Dossiers générés par Altium ---
-Altium PCB MotherBoard/Project Logs for OG 1200V MotherBoard
-Altium PCB MotherBoard/History
-Altium PCB MotherBoard/Preview
-Altium PCB MotherBoard/__Previews
+/APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/History
+/APP/01 - SCHEMAS ET PCB/99 - WORKING COPY//Preview
+/APP/01 - SCHEMAS ET PCB/99 - WORKING COPY//__Previews
 
 # --- Fichiers temporaires ---
 *.tmp
@@ -29,4 +28,5 @@ Thumbs.db
 # --- Autosave / recovery ---
 *.asv
 *.sv$
-/APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/History
+
+
