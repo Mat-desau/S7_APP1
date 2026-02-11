@@ -3,13 +3,13 @@
 ##################################
 
 # --- Dossiers générés par Altium ---
-Project Logs/
-History/
-Preview/
-__Previews/
-Outputs/
-Generated/
-Reports/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/Project Logs/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/History/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/Preview/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/__Previews/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/Outputs/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/Generated/
+APP/01 - SCHEMAS ET PCB/99 - WORKING COPY/Reports/
 
 # --- Fichiers temporaires ---
 *.tmp
