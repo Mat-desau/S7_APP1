@@ -1,0 +1,31 @@
+##################################
+# Altium Designer - Git Ignore
+##################################
+
+# --- Dossiers générés par Altium ---
+Altium PCB MotherBoard/Project Logs for OG 1200V MotherBoard
+Altium PCB MotherBoard/History
+Altium PCB MotherBoard/Preview
+Altium PCB MotherBoard/__Previews
+
+# --- Fichiers temporaires ---
+*.tmp
+*.bak
+*.log
+*.lck
+*.drc
+*.erc
+*.err
+
+# --- Fichiers de preview Altium ---
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+
+# --- Fichiers système ---
+Thumbs.db
+.DS_Store
+
+# --- Autosave / recovery ---
+*.asv
+*.sv$
