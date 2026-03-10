@@ -407,6 +407,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document22]
+DocumentPath=S7-CAS-PLEIADES-CARTE-MERE_GERBER.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=HeatSink_PCB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LCVOSCSV
+
+[Document24]
+DocumentPath=HeatSink_SCH.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUPPYVKK
+
 [ProjectVariant1]
 UniqueId=66e899a6-bc66-453a-a512-3e6d1553dbc1
 Description=S7CAS-PLEIADES-CARTE-MERE_P01
@@ -421,52 +472,52 @@ DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P01\Design Rule Check
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project_Date
-Value=13/01/2026
+Name=Project_Stencil_Top_Thickness
+Value=
 
 [Parameter2]
-Name=Project_DateCode
-Value=
-
-[Parameter3]
-Name=Project_Designer1
-Value=Mathieu Desautels (DESM1210)
-
-[Parameter4]
-Name=Project_Designer2
-Value=Mathys Plante (PLAM1001)
-
-[Parameter5]
-Name=Project_Designer3
-Value=Jonathan Bouchard
-
-[Parameter6]
-Name=Project_Designer4
-Value=
-
-[Parameter7]
-Name=Project_Global
-Value=Pleiades
-
-[Parameter8]
-Name=Project_Group
-Value=01
-
-[Parameter9]
-Name=Project_Name
-Value=S7CAS-PLEIADES-CARTE-MERE
-
-[Parameter10]
-Name=Project_Revision
-Value=1.00
-
-[Parameter11]
 Name=Project_Stencil_Bot_Thickness
 Value=
 
-[Parameter12]
-Name=Project_Stencil_Top_Thickness
+[Parameter3]
+Name=Project_Revision
+Value=1.00
+
+[Parameter4]
+Name=Project_Name
+Value=S7CAS-PLEIADES-CARTE-MERE
+
+[Parameter5]
+Name=Project_Group
+Value=01
+
+[Parameter6]
+Name=Project_Global
+Value=Pleiades
+
+[Parameter7]
+Name=Project_Designer4
 Value=
+
+[Parameter8]
+Name=Project_Designer3
+Value=Rejean Fontaine
+
+[Parameter9]
+Name=Project_Designer2
+Value=Mathys Plante (PLAM1001)
+
+[Parameter10]
+Name=Project_Designer1
+Value=Mathieu Desautels (DESM1210)
+
+[Parameter11]
+Name=Project_DateCode
+Value=
+
+[Parameter12]
+Name=Project_Date
+Value=13/01/2026
 
 [Configuration1]
 Name=Sources
@@ -959,6 +1010,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
