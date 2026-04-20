@@ -1,0 +1,38 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:33:51 On 11/03/2026
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [S7CAS-PLEIADES-CARTE-MERE_P01.PcbDoc]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GTO]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GTP]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GTS]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GTL]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP1]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.G1]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP2]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.G2]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP3]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP4]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP5]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP6]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP7]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP8]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.G3]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP9]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.G4]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GP10]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GBL]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GBS]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GBP]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GBO]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.GM]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.EXTREP]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P01.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 16:33:55 On 11/03/2026

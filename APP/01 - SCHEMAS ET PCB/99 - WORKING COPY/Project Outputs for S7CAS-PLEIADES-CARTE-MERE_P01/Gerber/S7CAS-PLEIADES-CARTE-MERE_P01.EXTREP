@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: S7CAS-PLEIADES-CARTE-MERE_P01.GBR   11/03/2026  16:34:21
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top                                     
+.GP1                Ground Plane 1                          
+.G1                 Signal Layer 1                          
+.GP2                Ground Plane 2                          
+.G2                 Signal Layer 2                          
+.GP3                Ground Plane 3                          
+.GP4                Power Plane                             
+.GP5                Ground Plane 4                          
+.GP6                Ground Plane 5                          
+.GP7                Power Plane 2                           
+.GP8                Ground Plane 6                          
+.G3                 Signal Layer 3                          
+.GP9                Ground Plane 7                          
+.G4                 Signal Layer 4                          
+.GP10               Ground Plane 8                          
+.GBL                Bottom                                  
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
